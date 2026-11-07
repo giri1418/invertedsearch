@@ -44,7 +44,7 @@ inverted_index/
 Clone the repository:
 
 bash
-git clone https://github.com/giri1418/Inverted-search
+git clone https://github.com/giri1418/invertedsearch
 
 Navigate to the project directory:
 
@@ -81,4 +81,4 @@ The application displays a menu to perform database operations.
 
 **Kancharla Giri Babu**
 
-GitHub: https://github.com/giri1418/Inverted-search
+GitHub: https://github.com/giri1418/invertedsearch
