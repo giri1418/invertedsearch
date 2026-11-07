@@ -1,0 +1,12 @@
+# Executable files
+a.out
+*.out
+
+# Object files
+*.o
+
+# Generated database
+database.txt
+
+# VS Code settings
+.vscode/
